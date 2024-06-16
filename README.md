@@ -1,6 +1,6 @@
 # 🌟 CodSoft UI/UX Internship 🌟
 
-Welcome to the **CodSoft UI/UX Internship** repository! This collection showcases all the tasks and projects completed during my internship at CodSoft. Dive in to see the variety of UI/UX designs I have created.
+Welcome to the **CodSoft UI/UX Internship** repository! This collection showcases all the tasks completed during my internship at CodSoft. Dive in to see the variety of UI/UX designs I have created.
 
 ---
 
