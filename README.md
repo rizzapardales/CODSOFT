@@ -27,7 +27,4 @@ This repository is a testament to my journey and growth as a UI/UX designer at C
 >
 > **Description:** The focus was on providing an enjoyable browsing experience for users, showcasing the restaurant's offerings in an organized and aesthetically pleasing manner.
 
-### 🛍️ E-Commerce Website
-> **Objective:** Develop a user-friendly e-commerce website.
->
-> **Description:** This project required designing an e-commerce platform with an emphasis on easy navigation, attractive aesthetics, and a smooth checkout process to enhance the overall user journey from browsing to purchase.
+
